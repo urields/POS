@@ -1,0 +1,43 @@
+F:\POS\POSMain\POSMainForm\bin\Release\SqlServerTypes\x64\msvcr100.dll
+F:\POS\POSMain\POSMainForm\bin\Release\SqlServerTypes\x64\SqlServerSpatial110.dll
+F:\POS\POSMain\POSMainForm\bin\Release\SqlServerTypes\x86\msvcr100.dll
+F:\POS\POSMain\POSMainForm\bin\Release\SqlServerTypes\x86\SqlServerSpatial110.dll
+F:\POS\POSMain\POSMainForm\bin\Release\Microsoft.SqlServer.Types.dll
+F:\POS\POSMain\POSMainForm\bin\Release\MySql.Data.dll
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.csprojResolveAssemblyReference.cache
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmAddEditCategory.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmAddEditProduct.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmDatabaseConfig.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmEnterPassword.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmFilter.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmLogin.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmPOS.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmReporteVentas.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmReportFilterDailySales.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmListCategory.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmListProduct.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmListProductStocksIn.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmListStaff.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmAddEditStaff.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmMain.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmPayment.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmReportDailSalesByInvoice.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmReportFilterStocks.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmReportStocksIn.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmReportStocksOut.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmSelectCategory.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.frmSystemSetting.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.Properties.Resources.resources
+F:\POS\POSMain\POSMainForm\obj\x86\Release\POSMainForm.csproj.GenerateResource.Cache
+F:\POS\POSMain\POSMainForm\bin\Release\HACHIKO.exe.config
+F:\POS\POSMain\POSMainForm\bin\Release\HACHIKO.exe.manifest
+F:\POS\POSMain\POSMainForm\bin\Release\HACHIKO.application
+F:\POS\POSMain\POSMainForm\bin\Release\HACHIKO.exe
+F:\POS\POSMain\POSMainForm\bin\Release\HACHIKO.pdb
+F:\POS\POSMain\POSMainForm\obj\x86\Release\HACHIKO.exe.manifest
+F:\POS\POSMain\POSMainForm\obj\x86\Release\HACHIKO.application
+F:\POS\POSMain\POSMainForm\obj\x86\Release\HACHIKO.exe
+F:\POS\POSMain\POSMainForm\obj\x86\Release\HACHIKO.pdb
+C:\Users\jcabello\Documents\Visual Studio 2013\Projects\POS\POSMain\POSMainForm\bin\Release\HACHIKO.exe.config
+C:\Users\jcabello\Documents\Visual Studio 2013\Projects\POS\POSMain\POSMainForm\obj\x86\Release\HACHIKO.exe
+C:\Users\jcabello\Documents\Visual Studio 2013\Projects\POS\POSMain\POSMainForm\obj\x86\Release\HACHIKO.pdb

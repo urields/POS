@@ -1,0 +1,3 @@
+create database posisdb_csharp;
+use posisdb_csharp;
+source F:\posisdbFinal;

@@ -1,0 +1,16 @@
+  <DataSources>
+    <DataSource Name="dsReportCx">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local_Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+      <rd:DataSourceID>0c7b3686-79ce-4171-b735-da88c517245a</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="dsDRByInvoiceX">
+      <Query>
+        <DataSourceName>dsReportCx</DataSourceName>
+        <CommandText>/* Local_Query */</CommandText>
+      </Query>

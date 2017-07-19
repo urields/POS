@@ -1,0 +1,4 @@
+
+C:\Program Files\MySQL\MySQL Server 5.7\bin>mysqldump.exe -u root -p posisdb_csharp > F:/posisSQL.sql
+
+mysql -u [user] -p[password] posisdb_csharp
